@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "auth0-angular-practice"
+    }
+  },
+  "defaultProject": "auth0-angular-practice",
+  "cli": {
+    "analytics": "90808ff5-7f7b-4df2-a8a6-0ab296655c08"
+  }
 }
